@@ -1,1 +1,1 @@
-App made in Java with plugin Swagger to test CRUD
+App made in Java Spring (Gradle) with plugin Swagger to test CRUD

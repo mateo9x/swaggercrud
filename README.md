@@ -10,6 +10,8 @@ This is my non-profit project to practice selected element of Java Spring.
 
 App made to test CRUD options.
 
+Comitted through Git Bash.
+
 ## 3. Technologies
 Project is created with:
 * Java
